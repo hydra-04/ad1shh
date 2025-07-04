@@ -3,7 +3,7 @@ adish
 
 
 
-<tite>my website</titel> 
+<tite>my website
 
 
  ..
@@ -13,6 +13,8 @@ adish
 <print>hello to all my veiwer</print>
 
 <button>instagram<ad1shhhhhh_
+
+
 <print>adish 
 
 
