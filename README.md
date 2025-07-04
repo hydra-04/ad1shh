@@ -1,28 +1,14 @@
-# ad1shh
-adish 
+# login form
+adish
 
+<h2>login form</h2>
 
+<type>login
+<print><MY WEBSITE>
 
-<tite>my website
+<input type>user
 
+<input type>pass
+<input type>date
+<button>login 
 
- ..
-<button>adish
-
-
-<print>hello to all my veiwer</print>
-
-
-
-
-
-<input type> instagram<ad1shhhhhh_
-
-
-
-
-<print>adish<print>
-
-
- 
- 
