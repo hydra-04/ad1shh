@@ -12,10 +12,16 @@ adish
 
 <print>hello to all my veiwer</print>
 
-<button>instagram<ad1shhhhhh_
 
 
-<print>adish 
+
+
+<input type>= instagram<ad1shhhhhh_
+
+
+
+
+<print>adish<print>
 
 
  <button>
