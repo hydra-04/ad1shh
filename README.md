@@ -16,7 +16,7 @@ adish
 
 
 
-<input type>= instagram<ad1shhhhhh_
+<input type> instagram<ad1shhhhhh_
 
 
 
@@ -24,5 +24,5 @@ adish
 <print>adish<print>
 
 
- <button>
+ 
  
