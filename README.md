@@ -1,14 +1,9 @@
-# login form
-adish
-
-<h2>login form</h2>
-
-
-<print><MY WEBSITE>
-
-<input type>user
-
-<input type>pass
-<input type>date
-<button>login 
-
+<div class="login-container">
+  <h2>login</h2>
+    <form>
+      <input type="text"
+placeholder="username"required/>
+    <input type="password"
+placeholder="password"required/>
+  <button type="submit"sign in</button>
+  <div class="extra-link">
